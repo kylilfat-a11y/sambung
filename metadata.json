@@ -1,0 +1,6 @@
+{
+  "name": "SAMBUNG - Dari Cerita Menuju Pertolongan Nyata",
+  "description": "Platform pendampingan kesehatan mental pemuda Muslim yang menghubungkan dukungan spiritual, pendamping sebaya, dan layanan profesional melalui proses rujukan yang terarah, aman, dan berkelanjutan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
