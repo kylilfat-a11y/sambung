@@ -242,9 +242,9 @@ export default function App() {
     currentScreen === 'profil';
 
   return (
-    <div className="w-full min-h-screen flex justify-center items-center bg-stone-900 md:bg-stone-800">
-      {/* Mobile container - "ukuran hp, ngga ada background" */}
-      <div className="w-full max-w-[420px] h-[100dvh] bg-white flex flex-col justify-between overflow-hidden shadow-2xl relative">
+    <div className="w-full min-h-screen flex justify-center bg-white">
+      {/* Mobile container - zero dark background behind */}
+      <div className="w-full max-w-[430px] h-[100dvh] bg-white flex flex-col justify-between overflow-hidden relative sm:border-x sm:border-stone-200/60">
         {/* Toast Notification */}
         {toastMessage && (
           <div className="absolute top-12 left-4 right-4 z-50 bg-stone-900/95 text-white text-xs font-semibold px-4 py-2.5 rounded-2xl text-center shadow-lg backdrop-blur-md animate-in fade-in slide-in-from-top-2 duration-200">

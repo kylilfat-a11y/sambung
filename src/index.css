@@ -3,7 +3,7 @@
 @layer base {
   body {
     font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    background-color: #f4f6f5;
+    background-color: #ffffff;
     color: #1a2e26;
     -webkit-tap-highlight-color: transparent;
   }
